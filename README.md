@@ -70,7 +70,7 @@ Designed for four key actorsâ€”Students, Caretakers, Wardens, and Hostel Adminsâ
 Clone the repository:
 
 ```bash
- git clone https://github.com/govind8172/HostelHubPlus.git
+ git clone https://github.com/sahilkumar12334/Hostel_Hub_Plus/.git
  
   
 ```
